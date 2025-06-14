@@ -1,0 +1,13 @@
+[project]
+dependencies = [
+    "langchain-google-genai",
+    "python-dotenv",
+    "psycopg2-binary",
+    "langchain",
+    "pgvector",
+]
+name = "llmteste"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
