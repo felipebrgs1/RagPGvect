@@ -5,6 +5,7 @@ dependencies = [
     "psycopg2-binary",
     "langchain",
     "pgvector",
+    "langchain-community",
 ]
 name = "llmteste"
 version = "0.1.0"
